@@ -24,7 +24,13 @@ Each user contains:
 - Email
 - Password
 
-## API Endpoints
+
+
+## API Base URL 
+
+  [http://](https://backendstandardstructure.onrender.com/users)
+
+## API Endpoints  
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|

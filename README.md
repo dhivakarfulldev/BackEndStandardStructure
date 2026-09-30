@@ -28,7 +28,7 @@ Each user contains:
 
 ## API Base URL 
 
-  [http://](https://backendstandardstructure.onrender.com/users)
+  [https://backendstandardstructure.onrender.com/users]
 
 ## API Endpoints  
 
